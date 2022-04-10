@@ -36,11 +36,11 @@ Final Year Project - Fitness Application
     
     Daily Workout Reminder
 
-  _**Feedback **_
+  _**Feedback**_
     
     User will be able to rate or review the services to the developers.
 
-**Disclamer: **
+**Disclamer:**
 
 Some features like workouts might not work since this is connected to a Web-Based Admin Panel. 
 The admin is required to add Workouts using Youtube Links. Email Logins are connected to MySql Database on the web.
