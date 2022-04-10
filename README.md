@@ -6,7 +6,6 @@ Final Year Project - Fitness Application
   _**User Profile Setup**_
     
     Social Media Login (Facebook and Google)
-    User Authentication while Signing In 
 
   _**Profile Management**_
     
