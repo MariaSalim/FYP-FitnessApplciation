@@ -20,7 +20,8 @@ Final Year Project - Fitness Application
     Thighs Workout
     Arms Workout
     Full Body Workout
-    Workouts will be facilitated by Voice Coach (Voice coach will guide and motivate the user throughout the workout)
+    Workouts will be facilitated by Voice Coach 
+    (Voice coach will guide and motivate the user throughout the workout)
 
   *User Progress*
     
