@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1071253675840",
+    "project_id": "happyfit-a513c",
+    "storage_bucket": "happyfit-a513c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071253675840:android:cc9906710b76a66588a4a5",
+        "android_client_info": {
+          "package_name": "com.example.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071253675840-t1lgrs60mevv8qoub06hrndqpf93fduc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fyp",
+            "certificate_hash": "4cec8631bec3374fb04b9741e27c78c39cc00816"
+          }
+        },
+        {
+          "client_id": "1071253675840-1vhvkp036503uoch4ahj9p12u7qovt4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxto418B37GaxvYsnHbICpVadCxlhREYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071253675840-1vhvkp036503uoch4ahj9p12u7qovt4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityVideoInYoutube"
+    android:background="@color/bg">
+
+    <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:id="@+id/youtubeplayer"
+        android:layout_width="match_parent"
+        android:layout_height="600dp"
+        android:soundEffectsEnabled="false"/>
+
+    <TextView
+        android:id="@+id/text_view_countdown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/youtubeplayer"
+        android:layout_marginTop="30dp"
+        android:text="@string/timer"
+        android:textColor="@color/textclr"
+        android:fontFamily="@font/raleway_bold"
+        android:textSize="82sp" />
+    <ImageButton
+        android:id="@+id/button_start_pause"
+        android:layout_width="wrap_content"
+        android:background="@drawable/ic_play"
+        android:layout_below="@+id/text_view_countdown"
+        android:layout_centerHorizontal="true"
+        android:text="@string/start"
+        android:layout_height="wrap_content" />
+    <ImageButton
+        android:id="@+id/button_reset"
+        android:layout_width="wrap_content"
+        android:layout_marginRight="20dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text_view_countdown"
+        android:layout_toLeftOf="@id/button_start_pause"
+        android:layout_centerHorizontal="true"
+        android:text="@string/reset"
+        android:background="@drawable/ic_reset"
+        android:visibility="invisible"
+        tools:visibility="visible" />
+
+
+</RelativeLayout>

@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">HappyFit</string>
+    <string name="spscrnText">Happy Fit Happy Life</string>
+    <string name="exer">Stay Light</string>
+    <string name="sleep">Sleep Better</string>
+    <string name="fithhapp">Shape it Up!</string>
+    <string name="btngetstarted">Get Started</string>
+    <string name="login_un_hint">UserName</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="newuser">New user? Signup Now</string>
+    <string name="or">USE OTHER METHODS</string>
+    <string name="register">Register</string>
+    <string name="textRegister">Here’s your first step with us! </string>
+    <string name="signin">Already have an Account? SignIn</string>
+    <string name="title_activity_navigation_pane">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_profile">Profile</string>
+    <string name="workoutArea">Select your Workout Area</string>
+    <string name="Bday">Birthday</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="inches">Inches</string>
+    <string name="gndr">Gender</string>
+    <string name="gndrm">Male</string>
+    <string name="gndrf">Female</string>
+    <string name="gndrus">UnSpecified</string>
+    <string name="btnnxt">Next</string>
+    <string name="abt">About You</string>
+    <string name="cus">Get in touch with our Coaches!</string>
+    <string name="sendEmail">Send Email</string>
+    <string name="custo">TO:</string>
+    <string name="cusEmail">Coaches@HappyFit.com</string>
+    <string name="cusSubj">Subject: Type your Subject Here</string>
+    <string name="cusmsg">Message: Type your Message Here</string>
+    <string name="feedback">Feedback</string>
+    <string name="feedbackHint">Feedback Here</string>
+    <string name="send">Send</string>
+    <string name="ft">ft</string>
+    <string name="in">in</string>
+    <string name="Wei">Weight</string>
+    <string name="lbs">lbs</string>
+    <string name="kg">kg</string>
+    <string name="pe">Pose Estimation</string>
+    <string name="ok">OK</string>
+    <string name="petxt">Please Login into our Website from Desktop to Access this Feature using your UserName and Password</string>
+    <string name="petxthe">Happy Exercising!</string>
+
+    <string-array name="sphei">
+        <item>cm</item>
+        <item>in</item>
+    </string-array>
+
+    <string-array name="spwei">
+        <item>lbs</item>
+        <item>kg</item>
+    </string-array>
+
+    <string-array name="qsFAQS">
+        <item>Our Mission?</item>
+        <item>Where can I find the Workouts?</item>
+        <item>How to contact our coaches?</item>
+        <item>How can I track my Weight?</item>
+        <item>How to review us?</item>
+    </string-array>
+    <string-array name="AnsFAQs">
+        <item>Maximize our clients’ strength, without compromising their health or risking injury. The HappyFit Fitness team will provide a no-nonsense, sustainable regimen of strength training enabling our clients to overcome barriers to health and fitness, and fulfill their physical potential throughout their lifetime.</item>
+    </string-array>
+    <string-array name="AnsFAQs1">
+        <item>You can find them in the Home Tab categorized by Target Area or in Dashboard Tab under the weight progress graph</item>
+    </string-array>
+    <string-array name="AnsFAQs2">
+        <item>You can contact our Coaches via Email</item>
+    </string-array>
+    <string-array name="AnsFAQs3">
+        <item>You will see a progress graph in profile tab</item>
+    </string-array>
+    <string-array name="AnsFAQs4">
+            <item>You can use the Feedback option in profile Tab
+            </item>
+    </string-array>
+
+    <string name="dnotf">Daily Notifications</string>
+    <string name="Add">Add</string>
+    <string name="AddWeight">Add Weight</string>
+    <string name="weiHint">Enter Your Weight Here</string>
+    <string name="Cancel">Cancel</string>
+    <string name="weiadded">Weight Added</string>
+    <string name="upd">Update</string>
+    <string name="WeiEntries">Weight Entries</string>
+    <string name="weiProgress">Weight Progess</string>
+    <string name="ver">Verify</string>
+    <string name="Rstpwd">Reset Password</string>
+    <string name="rstpwdmsg">Verify the code sent to your Phone Number</string>
+    <string name="code">Enter Code Here</string>
+    <string name="newpwd">Enter New Password Here</string>
+    <string name="timer">00:00</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+    <string name="opcam">Open Camera</string>
+
+    <!--For Social Media Login-->
+    <string name="facebook_app_id">753201432041155</string>
+    <string name="fb_login_protocol_scheme">fb753201432041155</string>
+
+    <string name="clientID">1071253675840-1vhvkp036503uoch4ahj9p12u7qovt4d.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityUpdateWeight"
+    android:id="@+id/rlsnackbar"
+    android:background="@color/introbg">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/WeiEntries"
+        android:textColor="@color/textclr"
+        android:fontFamily="@font/raleway_bold"
+        android:textSize="25sp"
+        android:id="@+id/tvwentries"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="30dp"/>
+    <ListView
+        android:layout_marginTop="10dp"
+        android:id="@+id/lvweights"
+        android:layout_width="match_parent"
+        android:background="@color/bg"
+        android:layout_height="match_parent"
+        android:layout_below="@id/tvwentries"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_add_weight"
+        android:id="@+id/btnaddWeight"
+        android:layout_alignParentBottom="true"
+        android:onClick="updWeight"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"/>
+    </RelativeLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
