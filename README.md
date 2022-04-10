@@ -3,7 +3,7 @@ Final Year Project - Fitness Application
 
 **Features:**
 
-  _**User Profile Setup**__
+  _**User Profile Setup**_
     
     Social Media Login (Facebook and Google)
     User Authentication while Signing In 
