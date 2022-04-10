@@ -23,7 +23,7 @@ Final Year Project - Fitness Application
     Workouts will be facilitated by Voice Coach 
     (Voice coach will guide and motivate the user throughout the workout)
 
-  _**User Progress**
+  _**User Progress**_
     
     Weight progress would be displayed through graphical charts 
 
